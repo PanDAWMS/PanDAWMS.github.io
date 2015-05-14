@@ -1,10 +1,9 @@
 ---
-title: About the PanDA news website
+title: This site
+description: About the PanDA news website
 author: Torre Wenaus
-layout: default
+layout: page
 ---
-
-## About the PanDA news site
 
 This site is maintained by the [PanDA team](https://github.com/orgs/PanDAWMS/people).
 
