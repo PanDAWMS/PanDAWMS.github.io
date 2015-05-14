@@ -5,7 +5,7 @@ author: Torre Wenaus
 layout: page
 ---
 
-The PanDA distributed production and analysis system was originally developed by [US ATLAS](http://www.usatlas.bnl.gov/) for the [ATLAS Experiment](http://atlas.ch/) at the LHC to meet that experiment's extreme demands for large scale data intensive computing. PanDA processes over an exabyte of ATLAS data per year at a rate of close to a million jobs per day across over 100 computing facilities worldwide, serving the diverse analyses of about 1400 ATLAS physicist users. 
+The PanDA distributed production and analysis system was originally developed by [US ATLAS](http://www.usatlas.bnl.gov/) for the [ATLAS Experiment](http://atlas.ch/) at the LHC to meet that experiment's extreme demands for large scale data intensive computing. PanDA processes over an exabyte of ATLAS data per year at a rate of close to a million jobs per day at more than 100 computing facilities worldwide, serving the diverse analyses of about 1400 ATLAS physicist users. 
 
 ## ATLAS PanDA materials
 

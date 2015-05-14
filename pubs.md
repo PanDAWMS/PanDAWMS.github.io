@@ -1,6 +1,6 @@
 ---
 title: Publications and Press
-description: Publications, presentations, articles, press releases, outreach related to PanDA
+description: PanDA related publications, presentations, articles, press releases, and outreach
 author: Torre Wenaus
 layout: page
 ---
@@ -8,6 +8,10 @@ layout: page
 ### Publications and presentations
 
 * [The ATLAS Event Service: A New Approach to Event Processing](/assets/Wenaus-CHEP2015-ES-ATL-SOFT-SLIDE-2015-150.pdf). T. Wenaus et al, talk at CHEP 2015, April 2015.
+* [DOE Science Data Pilot Project: Granular Data Processing on HPCs Using an Event Service](http://scdoe.info/2014/11/11/torre-wenaus-brookhaven/). T. Wenaus & V. Tsulaia, DOE booth @ SC14, November 2014
+    * [Demo slides](http://goo.gl/WSdU4a)
+    * [Introduction to the Event Service](https://drive.google.com/file/d/0B3H5nTdCzYK3bHd0U2NzQW1mWG8/view), T. Wenaus
+    * [Event Service @ HPCs](https://drive.google.com/file/d/0B6auWMwGEwhVVkhUenI2Yi1MeVE/view), V. Tsulaia
 * [Integrating Network Awareness in ATLAS Distributed Computing](http://indico3.twgrid.org/indico/getFile.py/access?contribId=189&sessionId=54&resId=0&materialId=slides&confId=513). K. De et al, talk at ISGC 2014, March 2014, Taipei, ROC.
 * [PanDA Beyond ATLAS : A Scalable Workload Management System For Data Intensive Science](http://indico3.twgrid.org/indico/getFile.py/access?contribId=180&sessionId=50&resId=4&materialId=slides&confId=513). A. Klimentov et al,
 talk at ISGC 2014. March 2014, Taipei, ROC.

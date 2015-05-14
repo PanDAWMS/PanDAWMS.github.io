@@ -1,6 +1,6 @@
 ---
 title: The BigPanDA Project
-description: A Next Generation Workload Management and Analysis System for Big Data
+description: Next Generation Workload Management and Analysis System for Big Data
 author: Torre Wenaus
 layout: page
 ---
