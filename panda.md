@@ -80,9 +80,13 @@ More information on the Event Service is in the [Event Service twiki](https://tw
 
 ### BigPanDA monitor
 
-One of the objectives of the BigPanDA project was to provide high quality, experiment neutral monitoring and visualization of PanDA operation. This was realized in a new implementation of the PanDA monitor, the BigPanDA monitor, that has now replaced the old. It uses django to isolate database interfacing and data preparation from presentation views. It underwent large expansions in scope in order to support task based monitoring required by JEDI and the new production system. It supports both the Oracle and MySQL database back ends of PanDA. It is now being extended to improve its performance and interactivity, with internal caching (e.g. Redis) and client side functionality (javascript operating on json data from the server).
+One of the objectives of the BigPanDA project was to provide high quality, experiment neutral and extensible monitoring and visualization of PanDA operation. This was realized in a new implementation of the PanDA monitor, the BigPanDA monitor, that has now replaced the old. It uses django to isolate database interfacing and data preparation from presentation views. It underwent large expansions in scope in order to support task based monitoring required by JEDI and the new production system. It supports both the Oracle and MySQL database back ends of PanDA. It is now being extended to improve its performance and interactivity, with internal caching (e.g. Redis) and client side functionality (javascript operating on json data from the server).
 
 The BigPanDA monitor ATLAS instance is [here](http://bigpanda.cern.ch).
+
+### Modularization and packaging
+
+In an ongoing program of work, all PanDA components have been undergoing refactoring and modularization, isolating their ATLAS dependencies and making it possible for other experiments to begin with an experiment-neutral PanDA and tailor it to their needs through experiment specific modules. Improving the packaging has also been an important activity, in-house and in collaboration with software packaging and deployment experts in the [Open Science Grid (OSG)](http://opensciencegrid.org).
 
 ## PanDA Project Support
 
