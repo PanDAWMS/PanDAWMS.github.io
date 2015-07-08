@@ -7,7 +7,6 @@ layout: page
 
 ### Publications and presentations
 
-* [Big PanDA and Titan Merge to Tackle Torrent of LHC's Full-Energy Collision Data](https://www.bnl.gov/newsroom/news.php?a=25796), BNL Newsroom article, July 2015.
 * [The ATLAS Event Service: A New Approach to Event Processing](/assets/Wenaus-CHEP2015-ES-ATL-SOFT-SLIDE-2015-150.pdf). T. Wenaus et al, talk at CHEP 2015, April 2015.
 * [DOE Science Data Pilot Project: Granular Data Processing on HPCs Using an Event Service](http://scdoe.info/2014/11/11/torre-wenaus-brookhaven/). T. Wenaus & V. Tsulaia, DOE booth @ SC14, November 2014
     * [Demo slides](http://goo.gl/WSdU4a)
@@ -30,6 +29,7 @@ talk at ISGC 2014. March 2014, Taipei, ROC.
 
 ### Press Releases, Articles and Outreach
 
+* [Big PanDA and Titan Merge to Tackle Torrent of LHC's Full-Energy Collision Data](https://www.bnl.gov/newsroom/news.php?a=25796), BNL Newsroom article, July 2015.
 * [Brookhaven Presents Big Data Pilot Projects at Supercomputing Conference](http://www.bnl.gov/newsroom/news.php?a=25571&btw=1). BNL Newsroom, March 17, 2015
 * [Computing support for ATLAS at BNL](http://www.bnl.gov/atlas/computing.php). BNL press office, 2015
 * [World’s Most Powerful Accelerator Comes to Titan with a High-Tech Scheduler](http://www.bnl.gov/newsroom/news.php?a=24864). BNL Newsroom, May 7, 2014
