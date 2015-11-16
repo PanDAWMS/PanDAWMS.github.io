@@ -90,9 +90,9 @@ In an ongoing program of work, all PanDA components have been undergoing refacto
 
 ## PanDA Project Support
 
-US ATLAS has supported PanDA development since PanDA's inception in 2005.
+The DOE and NSF supported US ATLAS Operations Program has supported PanDA development since PanDA’s inception in 2005.
 
-DOE ASCR and DOE HEP funded the proposal "A next generation workload management and analysis system for big data", beginning in 2012, with lead PIs Alexei Klimentov (BNL) and Kaushik De (UTA).
+DOE ASCR and DOE HEP have funded the proposal “A next generation workload management and analysis system for big data”, beginning in 2012, with lead PIs Alexei Klimentov (BNL) and Kaushik De (UTA). The project was recently extended through 2015.
 
 * [US ATLAS](http://www.usatlas.bnl.gov/)
 * [DOE ASCR](http://science.energy.gov/ascr/)
